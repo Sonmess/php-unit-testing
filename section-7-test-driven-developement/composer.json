@@ -8,6 +8,6 @@
         }
     },
     "scripts": {
-        "unittest": "vendor/bin/phpunit --configuration ./phpunit.xml --verbose --stderr"
+        "unittest": "vendor/bin/phpunit --configuration ./phpunit.xml --verbose --stderr --colors=always"
     }
 }
