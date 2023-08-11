@@ -1,0 +1,1 @@
+{"version":1,"defects":{"UserTest::testUser":4},"times":{"MailerTest::testSendMessageReturnsTrue":0.009,"MailerTest::testInvalidArgumentExceptionIfEmailIsEmpty":0.002,"UserTest::testUser":0.001}}

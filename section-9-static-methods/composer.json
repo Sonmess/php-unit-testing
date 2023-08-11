@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "scripts": {
+        "unittest": "vendor/bin/phpunit --configuration ./phpunit.xml --verbose --stderr --colors=always"
+    }
+}
